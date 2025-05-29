@@ -6,7 +6,7 @@ const config = {
   favicon: 'img/favicon.ico',
   url: 'https://github.com',
   baseUrl: "/",
-  organizationName: 'cyberlabsghana', 
+  organizationName: 'ethicalhackinghandbook', 
   projectName: 'ethical-hacking-handbook',
   deploymentBranch:"gh-pages",
   onBrokenLinks: 'warn',
